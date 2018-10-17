@@ -1,6 +1,6 @@
 1) Go to the following link:
-https://drive.google.com/open?id=1SnE5IhbrLHr-oBwTtLYNidIIXtEXYDmD
+https://drive.google.com/drive/folders/1zqbznc_imtVRKftR4P4mSlllIxgkNage?usp=sharing
 
-2) Download the folder called "Volumen"
-3) Unzip the file if needed and open the folde.
+2) Download the folder
+3) Unzip the file if needed and open the folder.
 4) Double click on "setup.exe" and follow the instructions.
